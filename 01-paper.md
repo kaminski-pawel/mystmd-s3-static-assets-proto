@@ -66,9 +66,12 @@ One of the important underlying goals of practicing reproducibility, sharing mor
 
 To drive all of these features, the contents of a MyST document needs to be well defined. This is critical for powering interactive hovers, linked citations, and compatibility with scientific publishing standards like the Journal Article Metadata Tag Suite (JATS). We have an emerging specification for MyST, [`myst-spec`](https://spec.myst.tools), that aims to capture this information and transform it between many different formats, like PDF, Word, JSON, and JATS XML (Figure 4). This specification is arrived at through a community-centric MyST Enhancement Proposal ([MEP](https://compass.executablebooks.org/en/latest/meps.html)) process.
 
-![](https://dgtmon-develop-s3-static-assets.s3.eu-central-1.amazonaws.com/jb2-assets/assets/structured-data.gif)
+```{figure} https://dgtmon-develop-s3-static-assets.s3.eu-central-1.amazonaws.com/jb2-assets/assets/structured-data.gif
+:alt: Sunset at the beach
+:align: left
 
 **Figure 4**: The data behind MyST is **structured**, which means we can transform it into many different document types and use it to power all sorts of exciting features!
+```
 
 One of the common forms of scientific communication today is through PDF documents. MyST has excellent support for creating PDF documents, using a data-driven templating library called `jtex`. The document in Figure 5 was created using MyST!
 
