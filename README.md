@@ -16,8 +16,8 @@ The goals of the [quickstart guide](https://myst.tools/docs/mystjs/quickstart) a
 
 ## Improving Frontmatter and MyST Site
 
-![](./images/frontmatter-after.png)
+![](https://dgtmon-develop-s3-static-assets.s3.eu-central-1.amazonaws.com/jb2-assets/assets/frontmatter-after.png)
 
 ## Export as a PDF
 
-![](./images/export-pdf.png)
+![](https://dgtmon-develop-s3-static-assets.s3.eu-central-1.amazonaws.com/jb2-assets/assets/export-pdf.png)
