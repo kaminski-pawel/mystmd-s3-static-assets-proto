@@ -79,6 +79,18 @@ One of the common forms of scientific communication today is through PDF documen
 
 **Figure 5**: A PDF rendering through MyST.
 
+Here are examples of more complex assets that have to be fetched from S3. Video:
+
+<iframe src="https://dgtmon-develop-s3-static-assets.s3.eu-central-1.amazonaws.com/jb2-assets/assets/vid-sample.mp4" loading="lazy" allow="fullscreen; web-share" allowfullscreen></iframe>
+
+**Figure 6**: Example of embedded video[^uranus-mp4].
+
+Embedded HTML:
+
+<iframe src="https://dgtmon-develop-s3-static-assets.s3.eu-central-1.amazonaws.com/jb2-assets/assets/deepzoom/deepzoom.html" loading="lazy"></iframe>
+
+**Figure 7**: Example embedded html[^deepzoom-html].
+
 ## Conclusion
 
 There are many opportunities to improve open-science communication, to make it more interactive, accessible, more reproducible, and both produce and use structured data throughout the research-writing process. The `mystjs` ecosystem of tools is designed with structured data at its core. We would love if you gave it a try -- learn to get started at <https://myst.tools>.
@@ -88,6 +100,10 @@ There are many opportunities to improve open-science communication, to make it m
 Bourne, Philip E., Clark, Timothy W., Dale, Robert, De Waard, Anita, Herman, Ivan, Hovy, Eduard H., Shotton, David. (2012)"Improving The Future of Research Communications and e-Scholarship". FORCE11. doi:10.4230/DAGMAN.1.1.41
 
 Head, A., Lo, K., Kang, D., Fok, R., Skjonsberg, S., Weld, D. S., & Hearst, M. A. (2021, May). Augmenting Scientific Papers with Just-in-Time, Position-Sensitive Definitions of Terms and Symbols. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems. 10.1145/3411764.3445648
+
+[^uranus-mp4]: Clouds on Uranus. Source: [NASA Scientific Visualization Studio](https://svs.gsfc.nasa.gov/vis/a020000/a020300/a020390/CloudBRoll_4k_mp4.mp4). [Not subject to copyright](https://www.nasa.gov/nasa-brand-center/images-and-media/).
+[^deepzoom-html]: Image (c) 2012, [Dario Morelli](https://www.flickr.com/photos/projectese/).
+
 
 [2i2c]: https://2i2c.org/
 [curvenote]: https://curvenote.com
